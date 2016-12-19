@@ -5,7 +5,9 @@ testmaven.war can be deloped on tomcat.
 myeclipse vesion:10.7
 tomcat version:7.0.40
 jdk version:1.7
+
 ---
+
 how to build a test maven project?
 
 1.open myeclipse and create a web project, in the creting page check the option "add maven support", before create project, I config apache-maven-3.1.0 in "window/Preferences/MyEclise/Maven4MyEclipse/installations/"
